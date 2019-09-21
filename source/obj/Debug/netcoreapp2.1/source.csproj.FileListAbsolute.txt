@@ -1,0 +1,11 @@
+C:\GEP\Samples\CodingPatterns\source\bin\Debug\netcoreapp2.1\source.deps.json
+C:\GEP\Samples\CodingPatterns\source\bin\Debug\netcoreapp2.1\source.runtimeconfig.json
+C:\GEP\Samples\CodingPatterns\source\bin\Debug\netcoreapp2.1\source.runtimeconfig.dev.json
+C:\GEP\Samples\CodingPatterns\source\bin\Debug\netcoreapp2.1\source.dll
+C:\GEP\Samples\CodingPatterns\source\bin\Debug\netcoreapp2.1\source.pdb
+C:\GEP\Samples\CodingPatterns\source\obj\Debug\netcoreapp2.1\source.csprojAssemblyReference.cache
+C:\GEP\Samples\CodingPatterns\source\obj\Debug\netcoreapp2.1\source.csproj.CoreCompileInputs.cache
+C:\GEP\Samples\CodingPatterns\source\obj\Debug\netcoreapp2.1\source.AssemblyInfoInputs.cache
+C:\GEP\Samples\CodingPatterns\source\obj\Debug\netcoreapp2.1\source.AssemblyInfo.cs
+C:\GEP\Samples\CodingPatterns\source\obj\Debug\netcoreapp2.1\source.dll
+C:\GEP\Samples\CodingPatterns\source\obj\Debug\netcoreapp2.1\source.pdb
