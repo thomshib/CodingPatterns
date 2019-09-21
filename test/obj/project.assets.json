@@ -5879,11 +5879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GEP\\Samples\\CodingPatterns\\test\\test.csproj",
+      "projectUniqueName": "c:\\GEP\\Samples\\CodingPatterns\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\GEP\\Samples\\CodingPatterns\\test\\test.csproj",
+      "projectPath": "c:\\GEP\\Samples\\CodingPatterns\\test\\test.csproj",
       "packagesPath": "C:\\Users\\shibu.thomas\\.nuget\\packages\\",
-      "outputPath": "C:\\GEP\\Samples\\CodingPatterns\\test\\obj\\",
+      "outputPath": "c:\\GEP\\Samples\\CodingPatterns\\test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5902,8 +5902,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\GEP\\Samples\\CodingPatterns\\source\\source.csproj": {
-              "projectPath": "C:\\GEP\\Samples\\CodingPatterns\\source\\source.csproj"
+            "c:\\GEP\\Samples\\CodingPatterns\\source\\source.csproj": {
+              "projectPath": "c:\\GEP\\Samples\\CodingPatterns\\source\\source.csproj"
             }
           }
         }
