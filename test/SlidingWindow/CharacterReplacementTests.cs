@@ -9,7 +9,6 @@ public class CharacterReplacementTests{
 
     [Fact]
     public void FindLengthResultsInSuccess(){
-
         var result = CharacterReplacement.FindLength("aabccbb", 2);
 
         Assert.Equal(result,5);
