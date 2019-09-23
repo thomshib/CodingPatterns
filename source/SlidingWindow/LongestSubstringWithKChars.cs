@@ -10,7 +10,7 @@ namespace Source.SlidingWindow
     Output: 4
     Explanation: The longest substring with no more than '2' distinct characters is "araa".
 
-    //Approach
+    //Approach : Sliding Window Pattern
     1. First, we will insert characters from the beginning of the string until we have ‘K’ distinct 
             characters in the HashMap.
 

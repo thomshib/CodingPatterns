@@ -10,6 +10,7 @@ Input: String="aabccbb"
 Output: 3
 Explanation: The longest substring without any repeating characters is "abc".
 
+Approach: Sliding Window Pattern
 
 This problem follows the Sliding Window pattern and we can use a similar dynamic sliding window strategy
  as discussed in Longest Substring with K Distinct Characters. We can use a HashMap to remember the last 

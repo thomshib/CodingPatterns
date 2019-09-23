@@ -20,7 +20,7 @@ namespace Source.SlidingWindow
     Output: 3
     Explanation: Replace the 'b' or 'd' with 'c' to have the longest repeating substring "ccc".
     
-    Approach
+    Approach : Sliding Window Pattern
     1. Iterate through the string to add one letter at a time in the window.
 
     2. Keep track of the count of the maximum repeating letter in any window 

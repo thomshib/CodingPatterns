@@ -17,7 +17,7 @@ namespace Source.SlidingWindow
     Output: 9
     Explanation: Replace the '0' at index 6, 9, and 10 to have the longest subarray of 1s having length 9.
     
-    Approach:
+    Approach: Sliding Window Pattern
         Iterate through the array to add one number at a time in the window. 
 
         Keep track of the maximum number of repeating 1s in the current window (let’s call it maxOnesCount).
