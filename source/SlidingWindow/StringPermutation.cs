@@ -77,7 +77,7 @@ public class StringPermutation{
                 return true;
             }
 
-            //shrink the window
+            //shrink the window and add the char back
 
             if(windowEnd >= pattern.Length - 1){
                 char leftChar = input[windowStart];
